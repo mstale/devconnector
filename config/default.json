@@ -1,4 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://sadegh:mW1XB8bC3r3W6WOL@devconnector.9c5sb.mongodb.net/devconnector?retryWrites=true&w=majority",
-    "jwtSecret": "jdfjdxv9ru9duvfdiojvoiser937wt6^*^(*#HDsjnckvjf"
+    "mongoURI": "mongodb+srv://sadegh:HcGdXmTYFCSO8GY2@devconnector.9c5sb.mongodb.net/devconnector?retryWrites=true&w=majority",
+    "jwtSecret": "jdfjdxv9ru9duvfdiojvoiser937wt6^*^(*#HDsjnckvjf",
+    "githubClientId": "54a639a83daf1c543d28",
+    "githubSecret": "4efb9198b04c881ec98ed07f50782290e1dd2bf7"
 }
